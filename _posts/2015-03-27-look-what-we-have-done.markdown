@@ -2,7 +2,7 @@
 layout: post
 title:  Look what we've done
 date:   2015-03-27 10:57:12
-image: images/@stock/blog-4.jpg
+image: /Esteem-Enterprise-Site/images/@stock/blog-4.jpg
 excerpt:
   Nisi quas minima cumque et voluptate. et et iure nostrum necessitatibus et ipsam sed doloribus ab odio. voluptates velit et quaerat qui
 categories: Bussiness
