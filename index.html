@@ -443,38 +443,26 @@ socials:
 <div class='full parallax' style='background-image: url({{ site.baseurl }}/images/@stock/testimonials-bg.jpg); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
-      <p class='centered-text'>
-        <i class='fa fa-quote-left' style='color: #30BEE6; font-size: 36px;'></i>
+      {% include section-header.html class="alt" title_style="color: #fff;" title="Our customers" %}
+      <div class='spacing'></div>
+      <p>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
       </p>
       <div class='spacing'></div>
     </div>
   </div>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="What our clients say" title_style="color: #fff;" class="alt" %}
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modTestimonials'>
-        <div class='row'>
-          <div class='small-12 columns'>
-            <div class='items centered-text'>
-              {% for testimonial in page.testimonials %}
-                <div class='item'>
-                  <p class='quote'>{{testimonial.quote}}</p>
-                  <p class='author'>{{testimonial.author}}</p>
-                  <div class='two spacing'></div>
-                </div>
-              {% endfor %}
-            </div>
-          </div>
-          <div class='spacing'></div>
+      <div class='mod modClients' data-slides_to_show='4'>
+        <div class='clients'>
+          {% for client in page.clients %}
+            <div><img width="272" height="180" alt="" src="{{client}}" /></div>
+          {% endfor %}
         </div>
       </div>
     </div>
   </div>
+  <div class='two spacing'></div>
 </div>
 <div class='full no-padding' style='background: #30BEE6; color: #fff'>
   <div class='two spacing'></div>
@@ -525,71 +513,6 @@ socials:
     {% endfor %}
   </div>
   <div class='three spacing'></div>
-</div>
-<div class='full parallax' style='background-image: url({{ site.baseurl }}/images/@stock/customers-bg.jpg); color: #fff;'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html class="alt" title_style="color: #fff;" title="Our customers" %}
-      <div class='spacing'></div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modClients' data-slides_to_show='4'>
-        <div class='clients'>
-          {% for client in page.clients %}
-            <div><img width="272" height="180" alt="" src="{{client}}" /></div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-</div>
-<a id='pricing'></a>
-<div class='full'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html class="alt" title="Pricing table" %}
-      <div class='spacing'></div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='spacing'></div>
-  <div class='row'>
-    {% for box in page.price_boxes %}
-      <div class='medium-6 large-3 columns'>
-        <div class='mod modPriceBox {{box.class}}'>
-          <div class='info'>
-            <p class='level'>{{box.type}}</p>
-            <p class='desc'>{{box.desc}}</p>
-            <p class='price'>
-              <span class='dollar'>$</span>
-              <span class='number'>{{box.cost}}</span>
-            </p>
-          </div>
-          <div class='features'>
-            <ul>
-              {% for line in box.lines %}
-                <li class="{% cycle '', 'even' %}">{{line}}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          <p class='start'>
-            <a class='button small' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Start Trial</a>
-          </p>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-  <div class='four spacing'></div>
 </div>
 <div class='full parallax' style='background-image: url({{ site.baseurl }}/images/@stock/blog-posts-bg.jpg);'>
   <div class='row'>
