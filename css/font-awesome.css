@@ -1169,6 +1169,7 @@
 }
 .fa-file-text:before {
   content: "\f15c";
+  color: #fff;
 }
 .fa-sort-alpha-asc:before {
   content: "\f15d";
