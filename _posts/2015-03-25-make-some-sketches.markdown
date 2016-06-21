@@ -2,7 +2,7 @@
 layout: post
 title:  tom is designing the new site
 date:   2015-03-25 10:57:12
-image: /Esteem-Enterprise-Site/images/@stock/blog-8.jpg
+image: Esteem-Enterprise-Site/images/@stock/blog-8.jpg
 excerpt:
   Esse ipsum maiores soluta odit autem sapiente. laboriosam qui veniam et culpa voluptatem nesciunt ut vel ipsa. sequi et culpa sunt facilis nesciunt vel id. maiores excepturi nihil incidunt quaerat nulla et omnis sint harum ea. doloremque repudiandae voluptatum quia. temporibus sed suscipit veniam. accusamus eveniet dolorum cupiditate
 categories:

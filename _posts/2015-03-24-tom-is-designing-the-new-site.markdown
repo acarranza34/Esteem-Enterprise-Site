@@ -2,7 +2,7 @@
 layout: post
 title:  tom is designing the new site
 date:   2015-03-24 10:57:12
-image: /Esteem-Enterprise-Site/images/@stock/blog-6.jpg
+image: Esteem-Enterprise-Site/images/@stock/blog-6.jpg
 excerpt:
   lste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel.
 categories:
