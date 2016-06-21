@@ -543,6 +543,7 @@
 }
 .fa-folder-open:before {
   content: "\f07c";
+  color: #fff;
 }
 .fa-arrows-v:before {
   content: "\f07d";
@@ -701,6 +702,7 @@
 .fa-group:before,
 .fa-users:before {
   content: "\f0c0";
+  color: #fff;
 }
 .fa-chain:before,
 .fa-link:before {
@@ -1191,6 +1193,7 @@
 }
 .fa-thumbs-up:before {
   content: "\f164";
+  color: #fff;
 }
 .fa-thumbs-down:before {
   content: "\f165";
