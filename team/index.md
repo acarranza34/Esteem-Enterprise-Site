@@ -13,7 +13,7 @@ Martin S. Streit
 <br>**Executive Attorney**
 
 Francine Carranza-Knight
-<br>**Creative Directo**
+<br>**Creative Director**
 
 Aristo A. Carranza
 <br>**Director of Technology**
@@ -30,7 +30,7 @@ Joshua Cruz
 Juan Motta
 <br>**Director of Web Development**
 
-Christopher A. Carraza
+Christopher A. Carranza
 <br>**Director A&R**
 
 Drakas Strovas&nbsp;
@@ -43,7 +43,7 @@ Alexandra Defino
 <br>**Executive Assistant**
 
 Attila Szucs
-<br>**Project Manager**
+<br>**Design Manager**
 
 Patrick Nicholas
 <br>**Creative Development & Screenwriter**
