@@ -498,7 +498,7 @@ socials:
     <div class='medium-8 columns'>
       <div class='form'>
         <div class='row'>
-          <form id='contact_form' method='POST'>
+          <form id='contact_form' method='POST' action="#">
             <div class='large-12 columns'>
               <p id='thanks' style='display: none;'>
                 Thanks for contacting us, we'll be in touch soon!
@@ -509,7 +509,7 @@ socials:
               <input class='required email' name='email' placeholder='EMAIL' type='text'>
               <input class='required' name='subject' placeholder='SUBJECT' type='text'>
               <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
-              <input class='button white' type='submit'>
+              <input type="hidden" class='button white' name="_to" value="juan@esteementerprise.com">
             </div>
           </form>
         </div>
