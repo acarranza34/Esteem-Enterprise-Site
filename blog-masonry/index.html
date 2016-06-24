@@ -9,7 +9,7 @@ layout: blog
     <div class='large-12 columns'>
       <div class='masonry-container'>
 
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
         <div class='masonry mod modBlogPost popin appear'>
           {% if post.image %}
           <a href="{{ post.url }}"><img width="800" height="533" alt="" src="{{site.url}}/{{post.image}}" /></a>
