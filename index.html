@@ -6,42 +6,20 @@ slides:
     tagline: Providing innovative services across the globe!
     optional: Esteem Enterprise goal is the continuous development of media platforms, marketing and management for major brands with national and global impact
     buttons:
-      - text: view portfolio
+      - text: view works
         class: small
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-      - text: purchase now
+        url: #work
+      - text: book now
         class: small boxed
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
+        id: Setmore_button_iframe
+        style: float: none;
+        url: https://my.setmore.com/shortBookingPage/d2f0fcbf-9732-4eb5-90fd-4384182aa1d5
     videos:
       - type: webm
         url: /images/J-media/video/video.webm
       - type: mp4
         url: /images/J-media/video/video.mp4
-  - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
-    title: creative &amp; powerful
-    tagline: It it very happy thing to make great website
-    buttons:
-      - text: purchase now
-        class: small
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-      - text: view features
-        class: small boxed
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-    videos:
-      - type: webm
-        url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.webm
-      - type: mp4
-        url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.mp4
-  - bg: /images/@stock/fullscreen-slide-3.jpg
-    title: Always have a dream
-    tagline: It is very quick to build a website with this theme
-    buttons:
-      - text: Purchase now
-        class: small
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-      - text: View features
-        class: boxed small
-        url: http://themeforest.net/user/honryou/portfolio?ref=honryou
+  
 works:
   - image: /images/@stock/one-page-work-1.jpg
     title: Green Studio Set
@@ -218,7 +196,7 @@ socials:
           <div class='two spacing'></div>
           <div class='buttons-wrapper'>
             {% for button in slide.buttons %}
-              <a class='button {{button.class}}' href='{{button.url}}'>{{button.text}}</a>
+              <a id="{{button.id}}" class='button {{button.class}}' href='{{button.url}}' style="{{button.style}}">{{button.text}}</a>
             {% endfor %}
           </div>
           {% if slide.videos %}
@@ -413,7 +391,6 @@ socials:
         <p>Like what you see here? Book a consultation today!</p>
       </div>
       <div class='medium-3 large-3 columns'>
-        <script id="setmore_script" type="text/javascript" src="http://www.setmore.com/new-home-page/js/short-booking-page-class.js"></script>
         <a class="boxed button" id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/shortBookingPage/d2f0fcbf-9732-4eb5-90fd-4384182aa1d5">Book a Consultation</a>
       </div>
     </div>
