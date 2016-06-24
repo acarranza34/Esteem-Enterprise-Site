@@ -2,7 +2,7 @@
 layout: post
 title: "Amen Ra's EPK!!"
 date: 2016-06-24T10:57:00.000Z
-image-link: 'https://static.wixstatic.com/media/9454e0_f1e1f856b6d84ba9a478b1fcbfb47a24.jpg/v1/fill/w_640,h_640,al_c,q_90/9454e0_f1e1f856b6d84ba9a478b1fcbfb47a24.jpg'
+image-link: 'https://static.wixstatic.com/media/9454e0_b04ac81d5cab42578624bd2a14ce64a0.jpg/v1/fill/w_1854,h_1236,al_c,q_90,usm_0.66_1.00_0.01/9454e0_b04ac81d5cab42578624bd2a14ce64a0.jpg'
 excerpt: 'Prior to even his own solo works, the New York City based self-professed ladies man - who is half Trini and professes to love his West Indian roots - had already made quite a splash'
 categories:
   - Web Design
