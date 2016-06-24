@@ -10,7 +10,7 @@ layout: blog
       <div class='masonry-container'>
 
         {% for post in site.posts %}
-        <div class='masonry mod modBlogPost popin {% if forloop.index < 4 %} appear {% endif %}'>
+        <div class='masonry mod modBlogPost popin {% if forloop.index < 3 %} appear {% endif %}'>
           {% if post.image %}
           <a href="{{ post.url }}"><img width="800" height="533" alt="" src="{{site.url}}/{{post.image}}" /></a>
           {% endif %}
