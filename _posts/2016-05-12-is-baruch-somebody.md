@@ -11,7 +11,11 @@ author: Juan Motta
 ---
 
 
-Baruch Santana grew up in NYC with his parents and big family.  There he developed his love for people, art and a desire to be an Entrepreneur. Now he works as an Artist and Casting Director and has no greater joys than helping young talent get closer to their dreams, slamming poetry and photographing life.
+&nbsp;
+
+Baruch Santana - “Am I Somebody?: Slam Poetry by Brooklyn"
+
+From a celebrated, freestyle artist comes a one of a kind story about an enlightening adventure of one man from the streets of Brooklyn who must endure. "Am I Somebody?” details the struggles of a man and his insistence to stick by his religion through all of life’s trials and tribulations. A truly inspiring and eye opening piece.
 
 Check out his book here:
 
