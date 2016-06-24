@@ -14,9 +14,8 @@ layout: blog
           {% if post.image %}
           <a href="{{ post.url }}"><img width="800" height="533" alt="" src="{{site.url}}/{{post.image}}" /></a>
           {% endif %}
-
           {% if post.image-link %}
-          <a href="{{ post.url }}"><img width="800" height="533" alt="" src="{{post.image-Link}}" /></a>
+          <a href="{{ post.url }}"><img width="800" height="533" alt="" src="{{post.image-link}}" /></a>
           {% endif %}
           <div class='content'>
             <p class='date'>{{ post.date | date: "%B %d, %Y" }}</p>
