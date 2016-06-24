@@ -1,0 +1,31 @@
+---
+layout: blog
+---
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-9 columns' style="width: 100%">
+      <div class='mod modBlogPost big'>
+        <div class='images'>
+          {% if page.image %}
+            <div class='image'><img alt="" src="{{site.url}}/{{page.image}}" /></div>
+          {% endif %}
+        </div>
+        <div class='content'>
+          <h3><a href="{{page.url}}">{{page.title}}</a></h3>
+          {{ content }}
+        </div>
+      </div>
+      <div class='four spacing'></div>
+    </div>
+  </div>
+</div>
+<div class='full no-padding' style='background: #111'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p>2014 {{site.title}}. All rights reserved.</p>
+    </div>
+  </div>
+  <div class='spacing'></div>
+</div>
