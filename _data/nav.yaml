@@ -19,12 +19,3 @@
 - name: Blog
   path: blog/
   section_id: blog
-  children:
-    - name: Blog Default
-      path: blog/
-    - name: Blog Fullwidth
-      path: blog-fullwidth/
-    - name: Blog Masonry
-      path: blog-masonry/
-    - name: Blog Single
-      path: design/2015/05/01/a-cup-of-coffee-for-you.html
