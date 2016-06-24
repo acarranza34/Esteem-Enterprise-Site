@@ -3,7 +3,7 @@ layout: post
 title: "Amen Ra's EPK!!"
 date: 2016-06-24T10:57:00.000Z
 image: /images/9454e0_0c928e8379c943a98f7a27fe6869ca2f.png
-excerpt: 'Fashion model Brooke Gantt has been featured in some of the hottest magazines in the world (Seventeen, Glamour, Allure), graced the runways of some of the most exclusive fashion shows...'
+excerpt: 'Prior to even his own solo works, the New York City based self-professed ladies man - who is half Trini and professes to love his West Indian roots - had already made quite a splash'
 categories:
   - Web Design
 tags:
