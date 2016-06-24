@@ -2380,12 +2380,12 @@ body.screenshot {
   -webkit-transition: all 0.4s linear;
   transition: all 0.4s linear;
 }
-.modGallery ul.gallery li {
+.modGallery ul.gallery li a {
   position: relative;
   display: block;
   overflow: hidden;
 }
-.modGallery ul.gallery li .overlay {
+.modGallery ul.gallery li a .overlay {
   opacity: 0;
   position: absolute;
   top: 0;
@@ -2398,23 +2398,23 @@ body.screenshot {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
-.modGallery ul.gallery li .overlay .thumb-info {
+.modGallery ul.gallery li a .overlay .thumb-info {
   top: 55%;
   position: relative;
   opacity: 0;
 }
-.modGallery ul.gallery li h3 {
+.modGallery ul.gallery li a h3 {
   color: #fff;
   margin-bottom: 10px;
 }
-.modGallery ul.gallery li p {
+.modGallery ul.gallery li a p {
   color: #fff;
   font-size: 0.875rem;
 }
-.modGallery ul.gallery li:hover .overlay {
+.modGallery ul.gallery li a:hover .overlay {
   opacity: 1;
 }
-.modGallery ul.gallery li:hover .overlay .thumb-info {
+.modGallery ul.gallery li a:hover .overlay .thumb-info {
   -moz-transition-duration: 0.4s;
   -o-transition-duration: 0.4s;
   -webkit-transition-duration: 0.4s;
@@ -2424,7 +2424,7 @@ body.screenshot {
   margin-top: -26px;
   opacity: 1;
 }
-.modGallery ul.gallery li:hover img {
+.modGallery ul.gallery li a:hover img {
   -moz-transform: scale(1.1);
   -ms-transform: scale(1.1);
   -webkit-transform: scale(1.1);

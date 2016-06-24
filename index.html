@@ -411,13 +411,15 @@ socials:
         <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
           {% for work in page.works %}
             <li class='{{work.class}}'>
-              <img width="600" height="500" alt="" src="{{work.image}}" />
-              <div class='overlay'>
-                <div class='thumb-info'>
-                  <h3>{{work.title}}</h3>
-                  <p>{{work.desc}}</p>
+              <a>
+                <img width="600" height="500" alt="" src="{{work.image}}" />
+                <div class='overlay'>
+                  <div class='thumb-info'>
+                    <h3>{{work.title}}</h3>
+                    <p>{{work.desc}}</p>
+                  </div>
                 </div>
-              </div>
+              </a>
             </li>
           {% endfor %}
         </ul>
