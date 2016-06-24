@@ -6,7 +6,7 @@ layout: blog
   <div class='row'>
     <div class='large-9 columns'>
 
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
         <div class='big mod modBlogPost'>
           <div class='images'>
             {% if post.image %}
