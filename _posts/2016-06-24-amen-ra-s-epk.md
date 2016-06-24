@@ -6,7 +6,7 @@ image-link: 'https://static.wixstatic.com/media/9454e0_f1e1f856b6d84ba9a478b1fcb
 excerpt: 'Prior to even his own solo works, the New York City based self-professed ladies man - who is half Trini and professes to love his West Indian roots - had already made quite a splash'
 categories:
   - Web Design
-tags: Publication
+tags: Music
 author: Juan Motta
 ---
 
