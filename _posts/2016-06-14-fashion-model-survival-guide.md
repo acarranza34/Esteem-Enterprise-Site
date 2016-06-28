@@ -2,7 +2,7 @@
 layout: post
 title: Fashion Model Survival guide
 date: 2016-06-14T10:57:00.000Z
-image: /3296996-176-k617298.jpg
+image: 3296996-176-k617298.jpg
 excerpt: 'The good, the bad, the ugly, the untold erotic story shared through the eyes of a New York City fashion model Elizabeth Tight who has a secret life that is not so glamorous.'
 categories:
   - Web Design
