@@ -2,8 +2,8 @@
 layout: post
 title: Fashion Model Survival guide
 date: 2016-06-14T10:57:00.000Z
-image: 
-excerpt: 'Fashion model Brooke Gantt has been featured in some of the hottest magazines in the world (Seventeen, Glamour, Allure), graced the runways of some of the most exclusive fashion shows...'
+image: /3296996-176-k617298.jpg
+excerpt: 'The good, the bad, the ugly, the untold erotic story shared through the eyes of a New York City fashion model Elizabeth Tight who has a secret life that is not so glamorous.'
 categories:
   - Web Design
 tags: Fashion
@@ -11,4 +11,6 @@ author: Juan Motta
 ---
 
 
-Fashion model Brooke Gantt has been featured in some of the hottest magazines in the world (Seventeen, Glamour, Allure), graced the runways of some of the most exclusive fashion shows (Neiman Marcus, Steve Madden, Tommy Hilfiger) and appeared in numerous commercials, (Macy’s, Levi’s, Target) videos, (Maxwell, Nas, Lenny Kravitz), television shows (The View, Good Morning America, The Today Show), and the movie Sex and the City 2. Some of her books to date include her erotic novel "Secret Chronicles of a Fashion Model: The Fugitive's Girlfriend," and her two fashion booklets called, "Fashion Model Survival Guide," and "How to Become a Model in 28 Days." The two booklets are a part of her WBM Image (Wealthy Beautiful Models) workshop program. She also wrote, produced, and directed a play called, “The Chocolate Saccumb Show – Do Video Girls Have All the Fun?” The play is about the fashion world geared towards helping teens with self esteem.
+&nbsp;
+
+The good, the bad, the ugly, the untold erotic story shared through the eyes of a New York City fashion model Elizabeth Tight who has a secret life that is not so glamorous. This suspenseful novel is filled with celebrity and reckless relationships. From teenage abuse to adulthood drama, dirty little secrets, lies, and juicy sex scandals, Secret Chronicles of a Fashion Model: The Fugitive’s Girlfriend is guaranteed to keep your eyes glued to the pages.&nbsp;
