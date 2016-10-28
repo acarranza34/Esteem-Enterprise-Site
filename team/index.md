@@ -27,9 +27,6 @@ Ramsees Haider
 Joshua Cruz
 <br>**Director of Film Division**
 
-Juan Motta
-<br>**Director of Web Development**
-
 Christopher A. Carranza
 <br>**Director A&R**
 
